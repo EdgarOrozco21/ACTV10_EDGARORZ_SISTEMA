@@ -1,0 +1,13 @@
+{% extends 'app_clientes/base.html' %}
+{% block content %}
+<h2>Detalles del Cliente</h2>
+<table class="table table-bordered">
+    <tr><th>ID</th><td>{{ cliente.id_cliente }}</td></tr>
+    <tr><th>Nombre</th><td>{{ cliente.nombre }}</td></tr>
+    <tr><th>Apellido</th><td>{{ cliente.apellido }}</td></tr>
+    <tr><th>Empresa</th><td>{{ cliente.empresa }}</td></tr>
+    <tr><th>Correo</th><td>{{ cliente.correo }}</td></tr>
+    <tr><th>Teléfono</th><td>{{ cliente.telefono }}</td></tr>
+</table>
+<a href="{% url 'lista_clientes' %}" class="btn btn-secondary">Regresar</a>
+{% endblock %}

@@ -3,6 +3,8 @@
 
 ## Agregar Cliente
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/4d3cf94a-6158-4c77-895b-c5737f445570" />
+<img width="1920" height="719" alt="image" src="https://github.com/user-attachments/assets/544b4b54-eb7e-4d90-9543-7e61ca6e7c28" />
+
 
 ## Eliminar Cliente
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/2831c87e-dbdd-455b-9fbe-4e4e1ee9af8d" />
